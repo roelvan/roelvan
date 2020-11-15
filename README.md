@@ -1,6 +1,6 @@
 ### Roel Vaneyghen 👋
 
-Full-stack Javascript Engineer & Founder @ Kwis.app.
+Full-stack Javascript Engineer & Founder @ Kwis.app 🎉.  
 I only work remotely.
 
 I am working on
