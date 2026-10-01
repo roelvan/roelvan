@@ -1,7 +1,5 @@
 ## 👋 Hi there!
 
-I am Roel Vaneyghen, full-stack Javascript engineer with a passion for building online businesses.
-
 My main focus at the moment is growing [Urban Hunt](https://urbanhunt.be) together with my <a href="https://www.linkedin.com/in/klaaslannoy/">co-founder</a>. We develop playful city games for families and businesses. [Get in touch](https://tally.so/r/wvplgm).
 
 **On the side I am working on:**
@@ -27,4 +25,4 @@ My main focus at the moment is growing [Urban Hunt](https://urbanhunt.be) togeth
 
 Social: [LinkedIn](https://linkedin.com/in/roelvan/), [Instagram](https://www.instagram.com/roel.be/) and [Twitter](https://twitter.com/@vaneyghen)
 
-_Last update: Feb 27, 2022_
+_Last update: Oct 1, 2026_
